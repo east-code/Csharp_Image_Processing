@@ -1,0 +1,909 @@
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\ImageProcessing.exe.config
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\ImageProcessing.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\ImageProcessing.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Controls.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Video.DirectShow.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Video.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Imaging.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Math.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Controls.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Video.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Video.DirectShow.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Imaging.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\bin\Debug\AForge.Math.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProzessing.csprojAssemblyReference.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProcessing.Properties.Resources.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProzessing.csproj.CopyComplete
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProcessing.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\GrafikFormat\obj\Debug\ImageProcessing.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csprojAssemblyReference.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csprojAssemblyReference.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201210)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\05_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220426)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_Tamplate_GrafikFormatoperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220511)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\05_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220521)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\05_ImageArrays\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220604)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220606)\SkriptProjekte\04_TabellarischeVisualisierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\05_ImageArray\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\06_Histogramm\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\07_Pixeloperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_Eigenschaften\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220611)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2019_Bildverarbeitung (20220703)\SkriptProjekte\08_ObjEigenschaften\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220719)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220728)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\09_ Nachbarschaftsoerationen - Kopie\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Erweterte_Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220802)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20220923)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221003)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\10_ Segmentierung\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Freeman-Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Objektidentifikation\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221011)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\09_ Nachbarschaftsoperationen\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221026)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221126)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20221220)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe.config
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\ImageProcessing.pdb
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.dll
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Controls.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Video.DirectShow.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Imaging.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\bin\Debug\AForge.Math.xml
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.AssemblyReference.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.SuggestedBindingRedirects.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Form_ImageProcessing.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.GenerateResource.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CoreCompileInputs.cache
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProzessing.csproj.CopyComplete
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.exe
+E:\01-03_Csharp2021_Bildverarbeitung (20230107)\SkriptProjekte\11_Klassifikation\ImageProzessing\obj\Debug\ImageProcessing.pdb

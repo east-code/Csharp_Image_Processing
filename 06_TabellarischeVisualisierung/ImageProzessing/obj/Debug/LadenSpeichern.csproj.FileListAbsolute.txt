@@ -1,0 +1,42 @@
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\bin\Debug\LadenSpeichern.exe.config
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\bin\Debug\LadenSpeichern.exe
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\bin\Debug\LadenSpeichern.pdb
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.csprojResolveAssemblyReference.cache
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.Form_Bild.resources
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.Properties.Resources.resources
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.csproj.GenerateResource.Cache
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.exe
+C:\1-03_C#Bildverarbeitung\ProjekteZumSkript\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.pdb
+C:\1-03_C#Bildverarbeitung\SkriptProjekte\Bild\Bild\LadenSpeichern\bin\Debug\LadenSpeichern.exe.config
+C:\1-03_C#Bildverarbeitung\SkriptProjekte\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.exe
+C:\1-03_C#Bildverarbeitung\SkriptProjekte\Bild\Bild\LadenSpeichern\obj\Debug\LadenSpeichern.pdb
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.exe.config
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.exe
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.pdb
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csprojAssemblyReference.cache
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.Form_Bild.resources
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.Properties.Resources.resources
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csproj.GenerateResource.cache
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.exe
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.pdb
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csprojAssemblyReference.cache
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.Form_Bild.resources
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.Properties.Resources.resources
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csproj.GenerateResource.cache
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.exe
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.pdb
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.exe.config
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.exe
+H:\#02_booksOwn\1-03_Csharp2019Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csprojAssemblyReference.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.Form_Bild.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.Properties.Resources.resources
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csproj.GenerateResource.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\obj\Debug\LadenSpeichern.pdb
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.exe.config
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.exe
+H:\#02_booksOwn\01-03_Csharp2019_Bildverarbeitung (20201112)\SkriptProjekte\02_BildLadenSpeichern\02-1_LadenSpeichern\LadenSpeichern\bin\Debug\LadenSpeichern.pdb
